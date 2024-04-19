@@ -1,4 +1,4 @@
-import "../App.css";
+import "../../public/App.css";
 import Heading from "./Heading.jsx";
 import Footer from "./Footer.jsx";
 import Note from "./Note.jsx";
